@@ -4,8 +4,8 @@
 
 
  I’m currently working on problem solving and sotware development
- 
  I’m IA student ,diving into computer vision and Deep learning
+
 
  
 💬 Ask me about software development, computer vision and deep learning
