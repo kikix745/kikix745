@@ -11,7 +11,7 @@
  
 💬 Ask me about software development, computer vision and deep learning.
 
-📫 How to reach me onskikix@gmail.com.<img width="148" height="148" alt="download" src="https://github.com/user-attachments/assets/4a66e6a4-2136-4354-9dc9-a5ebfacabe49" />
+📫 How to reach me onskikix@gmail.com.
 
 
 
